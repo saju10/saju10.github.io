@@ -1,9 +1,8 @@
-# Senior Unity Game Developer  
+# Unity Game Developer  
 
 ## PROFESSIONAL SUMMARY
 
-Focused and detail-oriented Unity developer with **9+ years of experience** in **AR, VR, mobile, and PC game development**.  
-Experienced in building **2D & 3D games**, casino games, VR simulations, and AR applications with strong problem-solving and performance optimization skills.
+Focused and detail-oriented Unity developer with **9+ years of experience** in **mobile, AR, VR and PC game development**. Experienced in building **2D & 3D games**, casino games, VR simulations, and AR applications with strong problem-solving and performance optimization skills.
 
 ---
 

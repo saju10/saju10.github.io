@@ -8,4 +8,4 @@ description: Game Developer
 
 show_downloads: true
 github:
-  is_project_page: true
+  is_project_page: false

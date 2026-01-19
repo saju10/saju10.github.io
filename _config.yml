@@ -4,7 +4,7 @@ plugins:
   - jekyll-remote-theme
 
 title: Md. Shajahan Kabir
-logo: Shajahan.JPG
+logo: /Shajahan.JPG
 description: Game Developer
 
 show_downloads: true

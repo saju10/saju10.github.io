@@ -1,8 +1,6 @@
-Senior Unity Game Developer  
+# Senior Unity Game Developer  
 
-📍 Dhaka, Bangladesh  
-📧 shajahansj@gmail.com  
-🔗 https://www.linkedin.com/in/md-shajahan-kabir-saju-a9aa7533a/
+## PROFESSIONAL SUMMARY
 
 Focused and detail-oriented Unity developer with **9+ years of experience** in **AR, VR, mobile, and PC game development**.  
 Experienced in building **2D & 3D games**, casino games, VR simulations, and AR applications with strong problem-solving and performance optimization skills.

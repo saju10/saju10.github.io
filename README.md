@@ -1,4 +1,3 @@
-**Md. Shajahan Kabir**  
 Senior Unity Game Developer  
 
 📍 Dhaka, Bangladesh  
